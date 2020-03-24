@@ -1,0 +1,144 @@
+{
+  "AzurLane:project_azure": {
+    "NAME": "Cardboard Box",
+    "FLAVOR": "Huh, there's something inside?",
+    "DESCRIPTIONS": [
+      "Right click to open the box."
+    ]
+  },
+
+  "AzurLane:LetterOfGratitude": {
+    "NAME": "Letter Of Gratitude",
+    "FLAVOR": "7265696e610a is written on the front.",
+    "DESCRIPTIONS": [
+      "Open the letter? [Right Click]"
+    ]
+  },
+  "AzurLane:DokiDokiMemoir": {
+    "NAME": "Memoir of the Literature Club",
+    "FLAVOR": "Thank you for being a part of the Literature Club!.",
+    "DESCRIPTIONS": [
+      "Gain [E] this turn NL The connection between worlds makes the Spire distort every 3 turns. NL Distortions can help or hinder you."
+    ]
+  },
+  "AzurLane:TheSun": {
+    "NAME": "The Sun",
+    "FLAVOR": "A small orb, powering the colossal, ever-beating heart of the world.",
+    "DESCRIPTIONS": [
+      "Right Click: Destroy this relic and Stun a random enemy."
+    ]
+  },
+  "AzurLane:Amadeus": {
+    "NAME": "Amadeus System",
+    "FLAVOR": "I'm Kurisu. Kurisu Makise.",
+    "DESCRIPTIONS": [
+      "Our records don't have anything on this relic!"
+    ]
+  },
+  "AzurLane:MetalUpa": {
+    "NAME": "Metal Upa",
+    "FLAVOR": "The name \"Mayushii!\" is written on the bottom.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, gain #b3 Metallicize."
+    ]
+  },
+  "AzurLane:?": {
+    "NAME": "Heavy Burden",
+    "FLAVOR": "Tell me God, are you punishing me? Is this the price I'm paying for my past mistakes?",
+    "DESCRIPTIONS": [
+      "Our records don't have anything on this relic!"
+    ]
+  },
+  "AzurLane:ImpostoCube": {
+    "NAME": "Impostocube",
+    "FLAVOR": "Strangely squishy.",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "AzurLane:TheSwarm": {
+    "NAME": "The Swarm",
+    "FLAVOR": "What it was before it is no more. Neither Beast nor God, it is a creation unlike all.",
+    "DESCRIPTIONS": [
+      "Start each combat with an additional [E] . Enemies become Swarmed"
+    ]
+  },
+  "AzurLane:EchoStone": {
+    "NAME": "Echo Stone",
+    "FLAVOR": "A smooth, white stone recovered in the AzurLane. ",
+    "DESCRIPTIONS": [
+      "Right clicking this relic, you hear a voice within your mind."
+    ]
+  },
+  "AzurLane:TimewalkingPendant": {
+    "NAME": "Timewalking Pendant",
+    "FLAVOR": "Anachronic Eternity in the palm of your hand.",
+    "DESCRIPTIONS": [
+      "Every 32 Cards you play, Take an extra turn after this one. End your turn."
+    ]
+  },
+  "AzurLane:OrderPad": {
+    "NAME": "Order Pad",
+    "FLAVOR": "An introverted way of purchasing.",
+    "DESCRIPTIONS": [
+      "Right Click to buy a random uncommon rarity relic for 150 gold."
+    ]
+  },
+  "AzurLane:RainbowDark": {
+    "NAME": "Rainbow in the Dark",
+    "FLAVOR": "You've been left on your own, like a rainbow in the dark.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, #yChannel 1 Frost, 1 Lightning and 1 Dark"
+    ]
+  },
+  "AzurLane:BurnerInserter": {
+    "NAME": "Burner Inserter",
+    "FLAVOR": "Push. Pull. Stack. Refuel. Repeat.",
+    "DESCRIPTIONS": [
+      "Every 5 turns, gain 1 Orb slot."
+    ]
+  },
+  "AzurLane:TwinFlower": {
+    "NAME": "Happy Flowers",
+    "FLAVOR": "Happiness is best shared with others.",
+    "DESCRIPTIONS": [
+      "Replaces #rHappy #rFlower[#FFFFFF]. NL RESETS YOUR COUNTER. NL Every 3 turns, gain [E] [E]"
+    ]
+  },
+  "AzurLane:Adamantium": {
+    "NAME": "Adamantium",
+    "FLAVOR": "A pink tinted metal from a two dimensional world. Seems indestructable.",
+    "DESCRIPTIONS": [
+      "Replaces #rOrichalcum[#FFFFFF]. If you end your turn without Block, gain #b9 Block."
+    ]
+  },
+  "AzurLane:LunarClock": {
+    "NAME": "Lunar Clock",
+    "FLAVOR": "A small pocket watch originally belonging to a maiden. Holding it makes time distort around you.",
+    "DESCRIPTIONS": [
+      "Gain [E] [E] at the start of your turn. Upon Pickup, set your run timer to -2:00. Dealing damage rewinds time by #rhalf the damage dealt. Taking damage fast-fowards the timer by #rTriple the amount taken. When the timer reaches #b0, you lose."
+    ]
+  },
+  "AzurLane:HakureiShrine": {
+    "NAME": "Hakurei Shrine",
+    "FLAVOR": "There's a large donation box for visitors to leave money in, but since visitors are scarce, it's usually empty.",
+    "DESCRIPTIONS": [
+      "Our records don't have anything on this relic!"
+    ]
+  },
+  "AzurLane:DoubleEdgedShield": {
+    "NAME": "Legendary Shield",
+    "FLAVOR": "I'll defend this world on my own!",
+    "DESCRIPTIONS": [
+      "Whenever you would receive more than 7 unblocked attack damage, reduce it to 7. NL Whenever you would receive less than 7 unblocked attack damage, increase it to 7."
+    ]
+  },
+  "AzurLane:MenacingAura": {
+    "NAME": "Menacing Aura",
+    "FLAVOR": "Oh, you're approaching me?",
+    "DESCRIPTIONS": [
+      "At the start of every combat, gain #b5 #yStrength[#FFFFFF]. All Enemies gain #b3 #yStrength and Gain #b5% #rMax #rHP"
+    ]
+  }
+
+}

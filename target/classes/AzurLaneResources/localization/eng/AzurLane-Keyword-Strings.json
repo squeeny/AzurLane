@@ -1,0 +1,90 @@
+[
+  {
+    "NAMES": [
+      "keyword",
+      "keywords"
+    ],
+    "DESCRIPTION": "Whenever you play a card, gain 1 dexterity this turn only."
+  },
+  {
+    "PROPER_NAME": "Fuse",
+    "NAMES": [
+      "Fuse",
+      "fuse",
+      "multiword_keywords",
+      "multikey",
+      "multikeyword"
+    ],
+    "DESCRIPTION": "Make sure the first element in the NAMES is the same as your PROPER_NAME. The rest is to match keywords like the single word keyword."
+  },
+  {
+    "PROPER_NAME": "Burst",
+    "NAMES": [
+      "burst",
+      "Burst"
+    ],
+    "DESCRIPTION": "This effect triggers if the last card played was an #yAttack."
+  },
+  {
+    "PROPER_NAME": "Ignite",
+    "NAMES": [
+      "ignite",
+      "ignited",
+      "Ignite",
+      "Ignited"
+    ],
+    "DESCRIPTION": "Ignited creatures lose #b1 #yStrength and Increment your own #yStrength by #b1 at the end of the monster's turn. NL Ignited creatures also increment your azurlane:Volatile_Flame by #1 at the end of the monsters' turn. NL Each turn, creatures with Ignited have this power's amount reduced by #b1."
+  },
+  {
+  "PROPER_NAME": "Spell Card",
+  "NAMES": [
+  "Spell Card",
+  "spell_card"
+  ],
+  "DESCRIPTION": "You can only play up to #b3 Spell Cards per turn."
+  },
+  {
+    "PROPER_NAME": "Overheat",
+    "NAMES":
+    [
+      "Overheat",
+      "overheat"
+    ],
+    "DESCRIPTION": "This effect triggers if you have died this combat."
+  },
+  {
+    "PROPER_NAME": "Spell Fragment",
+    "NAMES": [
+      "Spell Fragment",
+      "spell_fragment"
+    ],
+    "DESCRIPTION": "Collect five #yFragments to unleash a powerful Spell Card attack."
+  },
+
+  {
+    "PROPER_NAME": "Exhaustion",
+    "NAMES": [
+      "Exhaustion",
+      "exhaustion"
+    ],
+    "DESCRIPTION": "When you would die, revive with 100% of your Max HP, NL clear your debuffs and gain #yExhaustion instead. NL You give up if #yExhaustion would reach #b3."
+  },
+
+  {
+    "PROPER_NAME": "Volatile Flame",
+    "NAMES": [
+      "Volatile Flame",
+      "volatile flame"
+    ],
+    "DESCRIPTION": "Your flame is volatile and frequent to change."
+  },
+
+  {
+    "PROPER_NAME": "Provident",
+    "NAMES": [
+      "Provident",
+      "provident"
+    ],
+    "DESCRIPTION": ""
+  }
+]
