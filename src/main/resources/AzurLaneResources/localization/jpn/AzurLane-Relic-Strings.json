@@ -1,9 +1,10 @@
 {
   "AzurLane:project_azure": {
-    "NAME": "Dummy Field",
+    "NAME": "ダミーフィールド",
     "FLAVOR": "",
     "DESCRIPTIONS": [
       "ERROR [RELIC] NL discord.gg/P99PeWx NL #modding NL @squeeny"
     ]
   }
+
 }

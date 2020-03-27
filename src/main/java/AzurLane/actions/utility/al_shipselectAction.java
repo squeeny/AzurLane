@@ -12,7 +12,7 @@ import com.megacrit.cardcrawl.dungeons.AbstractDungeon;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import java.io.BufferedReader;
+import java.io.*;
 
 import static AzurLane.AzurLane.getModID;
 import static com.megacrit.cardcrawl.events.city.TheLibrary.OPTIONS;
@@ -32,12 +32,17 @@ public class al_shipselectAction extends AbstractGameAction {
     }
 
 
+    public void givenWritingStringToFile_whenUsingPrintWriter_thenCorrect(String a, String b, String c) throws IOException {
+        BufferedWriter jsonmaker = new BufferedWriter(Gdx.files.internal(getModID() + "Resources/localization/uni/sgindex.txt").writer(true));
+        jsonmaker.write(a + " " + b + " " + c );
+    }
+
     public void update() {
 
         if (once) {
-            String current_sg_index = "";
-            String current_sg_name = "";
-            String current_sg_desc = "";
+            String current_sg_index;
+            String current_sg_name;
+            String current_sg_desc;
             String language = AzurLane.fetchLanguage();
 
             BufferedReader sg_indexes;
@@ -58,6 +63,7 @@ public class al_shipselectAction extends AbstractGameAction {
 
             try {
                 while ((current_sg_index = sg_indexes.readLine()) != null && (current_sg_name = sg_names.readLine()) != null && (current_sg_desc = sg_descs.readLine()) != null) {
+                    logger.info(current_sg_index + " " + current_sg_name + " " + current_sg_desc);
                     AbstractCard c = new al_shipselect(current_sg_index, current_sg_name, current_sg_desc);
                     group.addToTop(c);
                 }

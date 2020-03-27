@@ -1,11 +1,10 @@
 {
   "AzurLane:al_shipselect": {
-    "NAME": "Dummy Field",
+    "NAME": "ダミーフィールド",
     "DESCRIPTION": "ERROR [shipselect] NL discord.gg/P99PeWx NL #modding NL @squeeny"
   },
   "AzurLane:al_menu_gold": {
-    "NAME": "Dummy Field",
+    "NAME": "ダミーフィールド",
     "DESCRIPTION": "ERROR [goldmenu] NL discord.gg/P99PeWx NL #modding NL @squeeny"
   }
-
 }

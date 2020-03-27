@@ -48,6 +48,10 @@ public class project_azure extends CustomRelic implements ClickableRelic {
 
     }
 
+    public static void dummy(){
+
+    }
+
     public static Texture fetchShipGirl(boolean relic_or_outline, String ship_curr){
 
         switch (ship_curr) {

@@ -33,17 +33,15 @@ public class al_shipselect extends abs_al_core {
         this.name = name;
         this.rawDescription = desc;
         this.getTitleFontSize();
-        logger.info(index);
         loadCardImage("AzurLaneResources/images/cards/" + index + ".png");
         initializeDescription();
-
 
     }
 
     @Override
     public float getTitleFontSize()
     {
-        return 12;
+        return 16;
     }
 
     @Override

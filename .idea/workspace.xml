@@ -4,15 +4,319 @@
     <list default="true" id="7645c599-ef7f-4cbf-a451-a62350c0caee" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/AzurLane/AzurLane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AzurLane/AzurLane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AzurLane/actions/utility/al_shipselectAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AzurLane/actions/utility/al_shipselectAction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/AzurLane/cards/al_menu_gold.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AzurLane/cards/al_menu_gold.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AzurLane/cards/al_menu_skill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AzurLane/cards/al_menu_skill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AzurLane/cards/al_menu_skin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AzurLane/cards/al_menu_skin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/AzurLane/cards/al_shipselect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AzurLane/cards/al_shipselect.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/AzurLane/relics/project_azure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AzurLane/relics/project_azure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/AzurLaneResources/images/relics/adamantium.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/AzurLaneResources/images/relics/outline/adamantium.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/AzurLaneResources/localization/eng/AzurLane-Card-Strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/AzurLaneResources/localization/eng/AzurLane-Card-Strings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/AzurLaneResources/localization/eng/AzurLane-Keyword-Strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/AzurLaneResources/localization/eng/AzurLane-Keyword-Strings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/adamantium.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/outline/adamantium.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/AzurLaneResources/localization/eng/AzurLane-Relic-Strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/AzurLaneResources/localization/eng/AzurLane-Relic-Strings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/AzurLaneResources/localization/eng/AzurLane-Ui-Strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/AzurLaneResources/localization/eng/AzurLane-Ui-Strings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/AzurLaneResources/localization/eng/sgdesc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/AzurLaneResources/localization/eng/sgdesc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/AzurLaneResources/localization/eng/sgname.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/AzurLaneResources/localization/eng/sgname.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/AzurLaneResources/localization/uni/sgindex.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/AzurLaneResources/localization/uni/sgindex.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/antrun/build-main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/audio/pageflip.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/Badge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Abercrombie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AbercrombieHalloween.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AbercrombieHalloween_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Abercrombie_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Abukuma.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AbukumaRetrofit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AbukumaRetrofit_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Abukuma_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Acasta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AcastaRetrofit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AcastaRetrofit_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AcastaSchool.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AcastaSchool_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AcastaSpring.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AcastaSpring_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Acasta_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Achilles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AchillesRetrofit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AchillesRetrofit_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Achilles_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AdmiralGrafSpee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AdmiralGrafSpeeEvent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AdmiralGrafSpeeEvent2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AdmiralGrafSpeeEvent2_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AdmiralGrafSpeeEvent_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AdmiralGrafSpeeIdol.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AdmiralGrafSpeeIdol_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AdmiralGrafSpeeParty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AdmiralGrafSpeeParty_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AdmiralGrafSpee_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AdmiralHipper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AdmiralHipperMuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AdmiralHipperMuse_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AdmiralHipper_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Agano.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AganoCasual.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AganoCasual_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AganoChristmas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AganoChristmas_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Agano_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Ajax.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AjaxParty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AjaxParty_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AjaxRetrofit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AjaxRetrofit_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Ajax_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Akagi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AkagiChan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AkagiChan_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AkagiMuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AkagiMuse_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AkagiNewYear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AkagiNewYear_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AkagiOath.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AkagiOath_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AkagiSummer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AkagiSummer_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Akagi_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Akashi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AkashiEvent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AkashiEvent_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AkashiNewYear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AkashiNewYear_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AkashiParty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AkashiParty_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AkashiSofmap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AkashiSofmap_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Akashi_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Akatsuki.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AkatsukiCamp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AkatsukiCamp_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AkatsukiCasual.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AkatsukiCasual_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Akatsuki_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Alabama.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Alabama_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Albacore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Albacore_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Amagi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Amagi_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Amazon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AmazonParty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AmazonParty_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AmazonRetrofit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AmazonRetrofit_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Amazon_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AnShan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AnShanMisc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AnShanMisc_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AnShan_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Aoba.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Aoba_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Arashio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Arashio_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Ardent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/ArdentRetrofit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/ArdentRetrofit_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/ArdentSchool.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/ArdentSchool_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Ardent_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Arethusa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Arethusa_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Ariake.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Ariake_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Arizona.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Arizona_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/ArkRoyal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/ArkRoyalNewYear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/ArkRoyalNewYear_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/ArkRoyalParty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/ArkRoyalParty_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/ArkRoyalSummer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/ArkRoyalSummer_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/ArkRoyal_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Asashio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AsashioSchool.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AsashioSchool_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Asashio_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Ashigara.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AshigaraNewYear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AshigaraNewYear_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Ashigara_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Astoria.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AstoriaSchool.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AstoriaSchool_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Astoria_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Atago.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AtagoNewYear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AtagoNewYear_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AtagoOath.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AtagoOath_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AtagoSchool.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AtagoSchool_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AtagoSummer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AtagoSummer_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Atago_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Atlanta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Atlanta_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Aulick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Aulick_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Aurora.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AuroraParty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AuroraParty_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AuroraSpring.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AuroraSpring_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Aurora_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AuroroaSichuan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AuroroaSichuan_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Avrora.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AvroraPrison.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AvroraPrison_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Avrora_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Ayanami.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AyanamiCoco.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AyanamiCoco_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AyanamiHalloween.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AyanamiHalloween_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AyanamiIdol.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AyanamiIdol_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AyanamiNewYear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AyanamiNewYear_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AyanamiNicoNico.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AyanamiNicoNico_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AyanamiOath.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AyanamiOath_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AyanamiRetrofit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AyanamiRetrofit_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AyanamiRock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AyanamiRock_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AyanamiSpring.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AyanamiSpring_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Ayanami_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Aylwin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AylwinCasual.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/AylwinCasual_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Aylwin_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Bache.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/BacheCasual.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/BacheCasual_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Bache_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Bailey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/BaileyHalloween.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/BaileyHalloween_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/BaileyRetrofit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/BaileyRetrofit_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Bailey_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Baltimore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/BaltimoreSchool.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/BaltimoreSchool_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Baltimore_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Bataan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/Bataan_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/null.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/cards/null_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/effects/LunarClock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/effects/doki0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/effects/doki1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/effects/doki2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/effects/doki3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/effects/doki4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/effects/doki5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/effects/doki6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/effects/doki7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/effects/doki8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/effects/doki9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/effects/jojo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/effects/swarm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/events/Events.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/events/IdentityCrisisEvent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/events/IdentityCrisisEvent2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/orbs/default_orb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/powers/empty32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/powers/empty84.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/powers/swarm32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/powers/swarm84.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/Agano.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/DokiDokiMemoir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/LunarClock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/Menacing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/MetalUpa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/OrderPad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/Rainbow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/ReinaLetter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/Shield.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/TheSun.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/TheSwarm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/TimewalkingPendant.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/TwinFlower.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/inserter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/null.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/outline/Agano.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/outline/DokiDokiMemoir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/outline/LunarClock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/outline/Menacing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/outline/MetalUpa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/outline/OrderPad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/outline/Rainbow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/outline/ReinaLetter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/outline/Shield.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/outline/TheSun.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/outline/TheSwarm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/outline/TimewalkingPendant.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/outline/TwinFlower.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/outline/inserter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/outline/null.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/outline/phoenix_feather.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/outline/placeholder_relic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/outline/reimu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/outline/torii.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/phoenix_feather.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/placeholder_relic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/reimu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/relics/torii.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/ui/bsod.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/ui/imf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/ui/m_sticker_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/ui/m_sticker_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/ui/missing_texture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/ui/notebook-glitch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/ui/notebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/ui/poem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/ui/poem_special/poem_special1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/ui/poem_special/poem_special10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/ui/poem_special/poem_special2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/ui/poem_special/poem_special3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/ui/poem_special/poem_special4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/ui/poem_special/poem_special5a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/ui/poem_special/poem_special5b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/ui/poem_special/poem_special6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/ui/poem_special/poem_special7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/ui/poem_special/poem_special8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/ui/poem_special/poem_special9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/ui/tip/TEST.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/ui/tip/t1.pdn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/ui/tip/t1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/ui/tip/t1a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/ui/tip/t1b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/images/ui/unknown_002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/localization/eng/AzurLane-Card-Strings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/localization/eng/AzurLane-Event-Strings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/localization/eng/AzurLane-Keyword-Strings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/localization/eng/AzurLane-Orb-Strings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/localization/eng/AzurLane-Power-Strings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/localization/eng/AzurLane-Relic-Strings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/localization/eng/AzurLane-Ui-Strings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/localization/eng/AzurLaneTutorial-Strings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/localization/eng/sgdesc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/localization/eng/sgdesc_t.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/localization/eng/sgindex_t.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/localization/eng/sgname.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/localization/eng/sgnameu.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AzurLaneResources/localization/uni/sgindex.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IDCheckStringsDONT-EDIT-AT-ALL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ModTheSpire.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +358,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../RoR-StS-Mod-master/RoRStS" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -69,8 +373,8 @@
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
-      <command value="mvn clean" />
       <command value="mvn package" />
+      <command value="mvn clean" />
     </option>
   </component>
   <component name="ServiceViewManager">
@@ -111,11 +415,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1582192119488" />
-    <state x="752" y="409" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583998102748">
+    <state x="752" y="409" width="408" height="238" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585227627021">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="535" y="286" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1583940135154" />
-    <state x="752" y="409" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1583998102748" />
+    <state x="752" y="409" width="408" height="238" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1585227627021" />
     <state x="2672" y="424" width="416" height="238" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583598869197" />
     <state x="487" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585145218996">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -127,35 +431,35 @@
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1583941427177" />
     <state x="580" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1584972198348" />
     <state x="2500" y="166" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584978364231" />
-    <state x="651" y="171" key="FileChooserDialogImpl" timestamp="1585135420290">
+    <state x="651" y="171" key="FileChooserDialogImpl" timestamp="1585251184364">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583919616512" />
-    <state x="651" y="171" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1585135420290" />
+    <state x="651" y="171" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1585251184364" />
     <state x="2571" y="178" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585051239547" />
-    <state width="938" height="267" key="GridCell.Tab.0.bottom" timestamp="1585164136057">
+    <state width="1877" height="267" key="GridCell.Tab.0.bottom" timestamp="1585251148726">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1306" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584010638735" />
-    <state width="938" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1585164136057" />
+    <state width="1877" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1585251148726" />
     <state width="938" height="270" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585052027983" />
-    <state width="938" height="267" key="GridCell.Tab.0.center" timestamp="1585164136057">
+    <state width="1877" height="267" key="GridCell.Tab.0.center" timestamp="1585251148725">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1306" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584010638735" />
-    <state width="938" height="267" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1585164136057" />
+    <state width="1877" height="267" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1585251148725" />
     <state width="938" height="270" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585052027983" />
-    <state width="938" height="267" key="GridCell.Tab.0.left" timestamp="1585164136057">
+    <state width="1877" height="267" key="GridCell.Tab.0.left" timestamp="1585251148725">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1306" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584010638734" />
-    <state width="938" height="267" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1585164136057" />
+    <state width="1877" height="267" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1585251148725" />
     <state width="938" height="270" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585052027983" />
-    <state width="938" height="267" key="GridCell.Tab.0.right" timestamp="1585164136057">
+    <state width="1877" height="267" key="GridCell.Tab.0.right" timestamp="1585251148725">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1306" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584010638735" />
-    <state width="938" height="267" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1585164136057" />
+    <state width="1877" height="267" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1585251148725" />
     <state width="938" height="270" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585052027983" />
     <state x="490" y="174" key="Maven.ArtifactSearchDialog" timestamp="1585053365332">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -181,11 +485,15 @@
     </state>
     <state x="499" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1583920942581" />
     <state x="702" y="148" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1583445613170" />
-    <state x="476" y="231" width="945" height="968" key="run.anything.popup" timestamp="1585164136067">
+    <state x="476" y="231" width="945" height="968" key="run.anything.popup" timestamp="1585251148737">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1584010638764" />
-    <state x="476" y="231" width="945" height="968" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1585164136067" />
+    <state x="476" y="231" width="945" height="968" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1585251148737" />
     <state x="2396" y="240" width="945" height="1005" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585052028000" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1585245727010">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1585245727010" />
   </component>
 </project>
